@@ -51,6 +51,8 @@ MIT License.
 
 If you'd like to support my projects, please consider becoming a sponsor!
 
+<a href="https://github.com/hiroshikuze/get_searchresult_from_hatenabookmark/stargazers"><img src="https://img.shields.io/github/stars/hiroshikuze/get_searchresult_from_hatenabookmark?style=for-the-badge&logo=github&color=gold&label=%E2%AD%90%20Stars" height="40"></a>
+
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/hiroshikuze)
 
 [Author's wish list by Amazon(Japanese)](https://www.amazon.jp/hz/wishlist/ls/5BAWD0LZ89V9?ref_=wl_share)
